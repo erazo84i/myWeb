@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 Este es un archivo cristiano
-=======
 Bienvenidos amigos espero que estes muy bien
->>>>>>> ramab
+
